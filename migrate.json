@@ -30,8 +30,8 @@
 		"packageName" : "com.UCMobile.intl",
 		"alternative" : [
 			{
-				"altName" : "JioBrowser",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
+				"altName" : "",
+				"link" : "",
 				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
 			},
 			{
