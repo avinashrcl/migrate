@@ -29,11 +29,7 @@
 		"name" : "Uc browser",
 		"packageName" : "com.UCMobile.intl",
 		"alternative" : [
-			{
-				"altName" : "",
-				"link" : "",
-				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
-			}
+			
 		]
 	},
 	{
