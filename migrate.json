@@ -34,21 +34,8 @@
 				"link" : "",
 				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
 			},
-			{
-				"altName" : "Microsoft Edge",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				"appIcon\t" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
-			},
-			{
-				"altName" : "Opera Touch",
-				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
-			},
-			{
-				"altName" : "Vivaldi",
-				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
-			},
+			
+		
 			{
 				"altName" : "Firefox",
 				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
