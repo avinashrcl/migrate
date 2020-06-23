@@ -6,7 +6,13 @@
 		"name" : "Zoom",
 		"packageName" : "us.zoom.videomeetings"
 	},
-	
+	{
+		"name" : "Uc browser",
+		"packageName" : "com.UCMobile.intl",
+		"alternative" : [
+			
+		]
+	},
 	{
 		"name" : "CamScanner",
 		"packageName" : "com.intsig.camscanner",
@@ -28,7 +34,13 @@
 			
 		]
 	},
-	
+	{
+		"name" : "WPS Office",
+		"packageName" : "cn.wps.moffice_eng",
+		"alternative" : [
+			
+		]
+	},
 	{
 		"name" : "AliExpress",
 		"packageName" : "com.alibaba.aliexpresshd",
