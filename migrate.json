@@ -1,46 +1,6 @@
 [
-	{
-		"alternative" : [
-			
-		],
-		"name" : "Zoom",
-		"packageName" : "us.zoom.videomeetings"
-	},
-	{
-		"name" : "Uc browser",
-		"packageName" : "com.UCMobile.intl",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "CamScanner",
-		"packageName" : "com.intsig.camscanner",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "TikTok",
-		"packageName" : "com.zhiliaoapp.musically",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "SHAREit",
-		"packageName" : "com.lenovo.anyshare.gps",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "WPS Office",
-		"packageName" : "cn.wps.moffice_eng",
-		"alternative" : [
-			
-		]
-	},
+	
+	
 	{
 		"name" : "AliExpress",
 		"packageName" : "com.alibaba.aliexpresshd",
@@ -54,42 +14,8 @@
 		"alternative" : [
 			
 		]
-	},
-	{
-		"name" : "Turbo VPN",
-		"packageName" : "free.vpn.unblock.proxy.turbovpn",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "SHEIN",
-		"packageName" : "com.zzkko",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "BeautyPlus",
-		"packageName" : "com.commsource.beautyplus",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Xender",
-		"packageName" : "cn.xender",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Club Factory",
-		"packageName" : "club.fromfactory",
-		"alternative" : [
-			
-		]
-	},
+	
+	
 {
 		"name" : "App Lock",
 		"packageName" : "com.jiubang.alock",
