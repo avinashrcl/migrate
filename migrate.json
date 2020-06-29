@@ -2,25 +2,18 @@
 	
 	
 	{
-		"name" : "AliExpress",
-		"packageName" : "com.alibaba.aliexpresshd",
+		"name" : "Terrarium TV",
+		"packageName" : "com.nitroxenon.terrarium",
 		"alternative" : [
 			
 		]
 	},
 	{
-		"name" : "Helo",
-		"packageName" : "app.buzz.share",
-		"alternative" : [
-			
-		]
-	
-	
-{
-		"name" : "App Lock",
-		"packageName" : "com.jiubang.alock",
+		"name" : "ShowBox",
+		"packageName" : "com.showbox.app",
 		"alternative" : [
 			
 		]
 	}
+	
 ]
