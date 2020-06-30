@@ -9,6 +9,13 @@
 		]
 	},
 	{
+		"name" : "TikTok",
+		"packageName" : "com.zhiliaoapp.musically",
+		"alternative" : [
+			
+		]
+	},
+	{
 		"name" : "ShowBox",
 		"packageName" : "com.showbox.app",
 		"alternative" : [
