@@ -16,6 +16,146 @@
 		]
 	},
 	{
+		"name" : "Uc browser",
+		"packageName" : "com.UCMobile.intl",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "SHAREit",
+		"packageName" : "com.lenovo.anyshare.gps",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Clash of Kings",
+		"packageName" : "com.hcg.cok.gp",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Likee",
+		"packageName" : "video.like",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "SHEIN",
+		"packageName" : "com.zzkko",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "YouCam Makeup",
+		"packageName" : "com.cyberlink.youcammakeup",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Helo",
+		"packageName" : "app.buzz.share",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Baidu map",
+		"packageName" : "com.baidu.BaiduMap",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : " Mi Community",
+		"packageName" : "com.mi.global.bbs",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "APUS Browser",
+		"packageName" : "com.apusapps.browser",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "ROMWE",
+		"packageName" : "com.romwe",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Club Factory",
+		"packageName" : "club.fromfactory",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "WeChat",
+		"packageName" : "com.tencent.mm",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Beauty Plus",
+		"packageName" : "com.commsource.beautyplus",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Newsdog",
+		"packageName" : "com.newsdog",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "UC News",
+		"packageName" : "com.uc.iflow",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Xender",
+		"packageName" : "cn.xender",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "QQ Mail",
+		"packageName" : "com.tencent.androidqqmail",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "QQ Music",
+		"packageName" : "com.tencent.qqmusic",
+		"alternative" : [
+			
+		]
+	},
+	{
+		"name" : "Bigo Live",
+		"packageName" : "sg.bigo.live",
+		"alternative" : [
+			
+		]
+	},
+	{
 		"name" : "ShowBox",
 		"packageName" : "com.showbox.app",
 		"alternative" : [
