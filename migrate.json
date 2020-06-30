@@ -419,7 +419,7 @@
 	},
 	{
 		"name" : "ShowBox",
-		"packageName" : "com.showbox.app",
+		"packageName" :"com.tdo.showbox",
 		"alternative" : [
 			
 		]
