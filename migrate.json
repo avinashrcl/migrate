@@ -36,7 +36,16 @@
 		"name" : "TikTok",
 		"packageName" : "com.zhiliaoapp.musically",
 		"alternative" : [
-			
+			{
+				"altName" : "ShareChat",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Dubsmash",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+			}
 		]
 	},
 	{
@@ -51,7 +60,7 @@
 			{
 				"altName" : "Microsoft Edge",
 				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				"appIcon\t" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
 			},
 			{
 				"altName" : "Opera Touch",
@@ -74,13 +83,20 @@
 		"name" : "SHAREit",
 		"packageName" : "com.lenovo.anyshare.gps",
 		"alternative" : [
-			
+			{
+				"altName" : "JioSwitch",
+				"link" : "https://lh3.googleusercontent.com/N3UWIAEcUzQCivUw2Nsn97i3ZlLNi5ycIu6EDYE8wy052QVaxKb6uNqhf9NGPq4tOU8=s180-rw"
+			}
 		]
 	},
 	{
 		"name" : "Clash of Kings",
 		"packageName" : "com.hcg.cok.gp",
 		"alternative" : [
+			{
+				"altName" : "Clash of Clans",
+				"link" : "https://play.google.com/store/apps/details?id=com.supercell.clashofclans"
+			}
 			
 		]
 	},
@@ -88,14 +104,34 @@
 		"name" : "Likee",
 		"packageName" : "video.like",
 		"alternative" : [
-			
+			{
+				"altName" : "ShareChat",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Dubsmash",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+			}
 		]
 	},
 	{
 		"name" : "SHEIN",
 		"packageName" : "com.zzkko",
-		"alternative" : [
-			
+	"alternative" : [
+			{
+				"altName" : "Myntra",
+				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+			},
+			{
+				"altName" : "Tata CLiQ",
+				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+			},
+			{
+				"altName" : "Flipkart",
+				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+			}
 		]
 	},
 	{
@@ -109,6 +145,10 @@
 		"name" : "YouCam Makeup",
 		"packageName" : "com.cyberlink.youcammakeup",
 		"alternative" : [
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 			
 		]
 	},
@@ -116,13 +156,36 @@
 		"name" : "Helo",
 		"packageName" : "app.buzz.share",
 		"alternative" : [
-			
+			{
+				"altName" : "ShareChat",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Roposo",
+				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Mitron",
+				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Dubsmash",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+			}
 		]
 	},
 	{
 		"name" : "Baidu map",
 		"packageName" : "com.baidu.BaiduMap",
 		"alternative" : [
+			{
+				"altName" : "Google Maps",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+			}
 			
 		]
 	},
@@ -131,20 +194,69 @@
 		"packageName" : "com.mi.global.bbs",
 		"alternative" : [
 			
+			
 		]
 	},
 	{
 		"name" : "CM Browser",
 		"packageName" : "com.ksmobile.cb",
-		"alternative" : [
-			
+	         "alternative" : [
+			{
+				"altName" : "JioBrowser",
+				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
+				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+			},
+			{
+				"altName" : "Microsoft Edge",
+				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
+				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+			},
+			{
+				"altName" : "Opera Touch",
+				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
+				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			},
+			{
+				"altName" : "Vivaldi",
+				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
+				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+			},
+			{
+				"altName" : "Firefox",
+				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+			}
 		]
 	},
 	{
 		"name" : "APUS Browser",
 		"packageName" : "com.apusapps.browser",
-		"alternative" : [
-			
+	         "alternative" : [
+			{
+				"altName" : "JioBrowser",
+				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
+				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+			},
+			{
+				"altName" : "Microsoft Edge",
+				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
+				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+			},
+			{
+				"altName" : "Opera Touch",
+				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
+				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			},
+			{
+				"altName" : "Vivaldi",
+				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
+				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+			},
+			{
+				"altName" : "Firefox",
+				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+			}
 		]
 	},
 	{
@@ -158,70 +270,124 @@
 		"name" : "Club Factory",
 		"packageName" : "club.fromfactory",
 		"alternative" : [
-			
+			{
+				"altName" : "Myntra",
+				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+			},
+			{
+				"altName" : "Tata CLiQ",
+				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+			},
+			{
+				"altName" : "Flipkart",
+				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+			}
 		]
 	},
 	{
 		"name" : "WeChat",
 		"packageName" : "com.tencent.mm",
 		"alternative" : [
-			
+			{
+				"altName" : "WhatsApp",
+				"link" : "https://play.google.com/store/apps/details?id=com.whatsapp"
+			}
 		]
 	},
 	{
 		"name" : "Beauty Plus",
 		"packageName" : "com.commsource.beautyplus",
 		"alternative" : [
-			
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 		]
 	},
 	{
 		"name" : "Newsdog",
 		"packageName" : "com.newsdog",
 		"alternative" : [
-			
+			{
+				"altName" : "Google News",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+			}
 		]
 	},
 	{
 		"name" : "UC News",
 		"packageName" : "com.uc.iflow",
 		"alternative" : [
-			
+			{
+				"altName" : "Google News",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+			}
 		]
 	},
 	{
 		"name" : "Xender",
 		"packageName" : "cn.xender",
 		"alternative" : [
-			
+			{
+				"altName" : "JioSwitch",
+				"link" : "https://lh3.googleusercontent.com/N3UWIAEcUzQCivUw2Nsn97i3ZlLNi5ycIu6EDYE8wy052QVaxKb6uNqhf9NGPq4tOU8=s180-rw"
+			}
 		]
 	},
 	{
 		"name" : "ES File Explorer",
 		"packageName" : "com.estrongs.android.pop",
 		"alternative" : [
-			
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			}
 		]
 	},
 	{
 		"name" : "QQ Mail",
 		"packageName" : "com.tencent.androidqqmail",
 		"alternative" : [
-			
+			{
+				"altName" : "Gmail",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.gm"
+			}
 		]
 	},
 	{
 		"name" : "QQ Music",
 		"packageName" : "com.tencent.qqmusic",
 		"alternative" : [
-			
+			{
+				"altName" : "JioSaavn",
+				"link" : "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
+			}
 		]
 	},
 	{
 		"name" : "Bigo Live",
 		"packageName" : "sg.bigo.live",
 		"alternative" : [
-			
+			{
+				"altName" : "ShareChat",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Roposo",
+				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Mitron",
+				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
+				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			},
+			{
+				"altName" : "Dubsmash",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+			}
 		]
 	},
 	{
@@ -234,14 +400,21 @@
 	{
 		"name" : "Mail Master",
 		"packageName" : "com.netease.mail",
-		"alternative" : [
-			
+	"alternative" : [
+			{
+				"altName" : "Gmail",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.gm"
+			}
 		]
 	},
 	{
 		"name" : "SelfieCity",
 		"packageName" : "com.meitu.wheecam",
 		"alternative" : [
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 			
 		]
 	},
@@ -249,7 +422,10 @@
 		"name" : "Mi Video Call",
 		"packageName" : "com.mi.vtalk",
 		"alternative" : [
-			
+			{
+				"altName" : "Google Duo",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon"
+			}
 		]
 	},
 	{
@@ -333,43 +509,93 @@
 	{
 		"name" : "DU Browser",
 		"packageName" : "com.baidu.browser.inter",
-		"alternative" : [
-			
+	"alternative" : [
+			{
+				"altName" : "JioBrowser",
+				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
+				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+			},
+			{
+				"altName" : "Microsoft Edge",
+				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
+				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+			},
+			{
+				"altName" : "Opera Touch",
+				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
+				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			},
+			{
+				"altName" : "Vivaldi",
+				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
+				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+			},
+			{
+				"altName" : "Firefox",
+				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+			}
 		]
 	},
 	{
 		"name" : "HAGO",
 		"packageName" : "com.yy.hiyo",
 		"alternative" : [
-			
+			{
+				"altName" : "Houseparty",
+				"link" : "https://play.google.com/store/apps/details?id=com.herzick.houseparty"
+			}
 		]
 	},
 	{
 		"name" : "CamScanner",
 		"packageName" : "com.intsig.camscanner",
 		"alternative" : [
-			
+			{
+				"altName" : "Adobe Scan",
+				"link" : "https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN",
+				"appIcon" : "https://lh3.googleusercontent.com/VfzEt_p5VsWVUWThiy9_iia6-conkFN_UOCvC_NGEbD5542Mx8iWULBBH02ONenZnA=s180-rw"
+			},
+			{
+				"altName" : "Scanner App To PDF - TapScanner",
+				"link" : "https://play.google.com/store/apps/details?id=pdf.tap.scanner&hl=en_IN",
+				"appIcon" : "https://lh3.googleusercontent.com/GwLR4BLy5rE9K3iH15wt7yMd5Zot7IihntIHEpTJeIyEOgSUmVHKkvpF8wyYzS0UBQ=s180-rw"
+			},
+			{
+				"altName" : "Microsoft Office Lens",
+				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN",
+				"appIcon" : "https://lh3.googleusercontent.com/0--fb3LXLbWwPePSTfRDaabQsOa82ea4xL4_sJvJSC0fr1pWPg7znVrItS-GHJgNL3Q=s180-rw"
+			}
 		]
 	},
 	{
 		"name" : "Sweet Selfie",
 		"packageName" : "com.cam001.selfie",
 		"alternative" : [
-			
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 		]
 	},
 	{
 		"name" : "Wonder Camera",
 		"packageName" : "com.baidu.baiducamera",
 		"alternative" : [
-			
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 		]
 	},
 	{
 		"name" : "Photo Wonder",
 		"packageName" : "com.yubitu.android.YubiCollage",
 		"alternative" : [
-			
+			{
+				"altName" : "B612",
+				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+			}
 		]
 	},
 	{
