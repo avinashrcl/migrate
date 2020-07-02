@@ -8,27 +8,27 @@
 			{
 				"altName" : "Amazon Prime Video",
 				"link" : "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+				
 			},
 			{
 				"altName" : "Netflix",
 				"link" : "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN",
-				"appIcon\t" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+				
 			},
 			{
 				"altName" : "Hotstar",
 				"link" : "https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+	
 			},
 			{
 				"altName" : "ZEE5",
 				"link" : "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+				
 			},
 			{
 				"altName" : "Airtel Xstream",
 				"link" : "https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+				
 			}
 		]
 	},
@@ -276,7 +276,17 @@
 		"name" : " Mi Community",
 		"packageName" : "com.mi.global.bbs",
 		"alternative" : [
+			{
+				"altName" : "Instagram",
+				"link" : "https://play.google.com/store/apps/details?id=com.instagram.android",
+				
+			},
 			
+			{
+				"altName" : "Facebook",
+				"link" : "https://play.google.com/store/apps/details?id=com.facebook.katana",
+			
+			}
 			
 		]
 	},
@@ -287,27 +297,27 @@
 			{
 				"altName" : "JioBrowser",
 				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+				
 			},
 			{
 				"altName" : "Microsoft Edge",
 				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+				
 			},
 			{
 				"altName" : "Opera Touch",
 				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			
 			},
 			{
 				"altName" : "Vivaldi",
 				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+				
 			},
 			{
 				"altName" : "Firefox",
 				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+				
 			}
 		]
 	},
@@ -318,27 +328,27 @@
 			{
 				"altName" : "JioBrowser",
 				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+				
 			},
 			{
 				"altName" : "Microsoft Edge",
 				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+				
 			},
 			{
 				"altName" : "Opera Touch",
 				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			
 			},
 			{
 				"altName" : "Vivaldi",
 				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+				
 			},
 			{
 				"altName" : "Firefox",
 				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+				
 			}
 		]
 	},
@@ -463,6 +473,18 @@
 			{
 				"altName" : "JioSaavn",
 				"link" : "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
+			},
+			{
+				"altName" : "Wynk Music",
+				"link" : "https://play.google.com/store/apps/details?id=com.bsbportal.music"
+			},
+			{
+				"altName" : "Gaana",
+				"link" : "https://play.google.com/store/apps/details?id=com.gaana"
+			},
+			{
+				"altName" : "Spotify",
+				"link" : "https://play.google.com/store/apps/details?id=com.spotify.music"
 			}
 		]
 	},
@@ -585,7 +607,16 @@
 	{
 		"name" : "DU Battery Saver",
 		"packageName" : "com.DUsavebattery.faster.charge",
-		"alternative" : [
+	        "alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -593,7 +624,20 @@
 	{
 		"name" : "DU Antivirus Security",
 		"packageName" : "com.DU.antivirus.cleaner.boosterpro",
-		"alternative" : [
+	"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -607,7 +651,20 @@
 	{
 		"name" : "Cache Cleaner-DU",
 		"packageName" : "com.dianxinos.optimizer.duplay",
-		"alternative" : [
+	"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -634,26 +691,26 @@
 	{
 		"name" : "DU Browser",
 		"packageName" : "com.baidu.browser.inter",
-	"alternative" : [
+	 "alternative" : [
 			{
 				"altName" : "JioBrowser",
 				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				"appIcon" : "https://lh3.googleusercontent.com/lvLnyyrrXakQr2IX00E4c9u1_mNWA6sasAHNgRGyWVuX9QMu0CrqBrqfmdf-NEw_FFE=s180-rw"
+				
 			},
 			{
 				"altName" : "Microsoft Edge",
 				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				"appIcon" : "https://lh3.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA=s180-rw"
+				
 			},
 			{
 				"altName" : "Opera Touch",
 				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-				"appIcon" : "https://lh3.googleusercontent.com/4ttZsI2w3mI--LU7I2lOvjSELTxqvGTlLTUec43HtTof0ma9l7NerEnPGxHbPRYFbjo=s180-rw"
+			
 			},
 			{
 				"altName" : "Vivaldi",
 				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-			
+				
 			},
 			{
 				"altName" : "Firefox",
@@ -679,17 +736,17 @@
 			{
 				"altName" : "Adobe Scan",
 				"link" : "https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/VfzEt_p5VsWVUWThiy9_iia6-conkFN_UOCvC_NGEbD5542Mx8iWULBBH02ONenZnA=s180-rw"
+			
 			},
 			{
 				"altName" : "Scanner App To PDF - TapScanner",
 				"link" : "https://play.google.com/store/apps/details?id=pdf.tap.scanner&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/GwLR4BLy5rE9K3iH15wt7yMd5Zot7IihntIHEpTJeIyEOgSUmVHKkvpF8wyYzS0UBQ=s180-rw"
+			
 			},
 			{
 				"altName" : "Microsoft Office Lens",
 				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN",
-				"appIcon" : "https://lh3.googleusercontent.com/0--fb3LXLbWwPePSTfRDaabQsOa82ea4xL4_sJvJSC0fr1pWPg7znVrItS-GHJgNL3Q=s180-rw"
+			
 			}
 		]
 	},
@@ -841,7 +898,11 @@
 		"name" : "Mobile Legends",
 		"packageName" : "com.mobile.legends",
 		"alternative" : [
-			
+			{
+				"altName" : "Garena Free Fire",
+				"link" : "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+				
+			}
 		]
 	},
 	{
@@ -862,8 +923,32 @@
 		"name" : "ShowBox",
 		"packageName" :"com.tdo.showbox",
 		"alternative" : [
-			
-		]
+			{
+				"altName" : "Amazon Prime Video",
+				"link" : "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN",
+				
+			},
+			{
+				"altName" : "Netflix",
+				"link" : "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN",
+				
+			},
+			{
+				"altName" : "Hotstar",
+				"link" : "https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN",
+	
+			},
+			{
+				"altName" : "ZEE5",
+				"link" : "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN",
+				
+			},
+			{
+				"altName" : "Airtel Xstream",
+				"link" : "https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN",
+				
+			}
+			]
 	}
 	
 ]
