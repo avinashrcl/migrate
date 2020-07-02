@@ -35,16 +35,36 @@
 	{
 		"name" : "TikTok",
 		"packageName" : "com.zhiliaoapp.musically",
-		"alternative" : [
+				"alternative" : [
 			{
 				"altName" : "ShareChat",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+				
+			},
+			{
+				"altName" : "Roposo",
+				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
+			
+			},
+			{
+				"altName" : "Mitron",
+				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
+		
+			},
+			{
+				"altName" : "Trell",
+				"link" : "https://play.google.com/store/apps/details?id=app.trell",
+				
+			},
+			{
+				"altName" : "Bolo Indya",
+				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
+				
 			},
 			{
 				"altName" : "Dubsmash",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+				
 			}
 		]
 	},
@@ -103,16 +123,36 @@
 	{
 		"name" : "Likee",
 		"packageName" : "video.like",
-		"alternative" : [
+				"alternative" : [
 			{
 				"altName" : "ShareChat",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+				
+			},
+			{
+				"altName" : "Roposo",
+				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
+			
+			},
+			{
+				"altName" : "Mitron",
+				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
+		
+			},
+			{
+				"altName" : "Trell",
+				"link" : "https://play.google.com/store/apps/details?id=app.trell",
+				
+			},
+			{
+				"altName" : "Bolo Indya",
+				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
+				
 			},
 			{
 				"altName" : "Dubsmash",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+				
 			}
 		]
 	},
@@ -128,6 +168,10 @@
 				"altName" : "Tata CLiQ",
 				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
 			},
+		        {
+				"altName" : "AJIO",
+				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
+			},
 			{
 				"altName" : "Flipkart",
 				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
@@ -137,8 +181,37 @@
 	{
 		"name" : "Kwai",
 		"packageName" : "com.kwai.video",
-		"alternative" : [
+	"alternative" : [
+			{
+				"altName" : "ShareChat",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				
+			},
+			{
+				"altName" : "Roposo",
+				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
 			
+			},
+			{
+				"altName" : "Mitron",
+				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
+		
+			},
+			{
+				"altName" : "Trell",
+				"link" : "https://play.google.com/store/apps/details?id=app.trell",
+				
+			},
+			{
+				"altName" : "Bolo Indya",
+				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
+				
+			},
+			{
+				"altName" : "Dubsmash",
+				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
+				
+			}
 		]
 	},
 	{
@@ -159,22 +232,32 @@
 			{
 				"altName" : "ShareChat",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+				
 			},
 			{
 				"altName" : "Roposo",
 				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			
 			},
 			{
 				"altName" : "Mitron",
 				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+		
+			},
+			{
+				"altName" : "Trell",
+				"link" : "https://play.google.com/store/apps/details?id=app.trell",
+				
+			},
+			{
+				"altName" : "Bolo Indya",
+				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
+				
 			},
 			{
 				"altName" : "Dubsmash",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+				
 			}
 		]
 	},
@@ -262,8 +345,23 @@
 	{
 		"name" : "ROMWE",
 		"packageName" : "com.romwe",
-		"alternative" : [
-			
+	"alternative" : [
+			{
+				"altName" : "Myntra",
+				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+			},
+			{
+				"altName" : "Tata CLiQ",
+				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+			},
+		        {
+				"altName" : "AJIO",
+				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
+			},
+			{
+				"altName" : "Flipkart",
+				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+			}
 		]
 	},
 	{
@@ -277,6 +375,10 @@
 			{
 				"altName" : "Tata CLiQ",
 				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+			},
+		        {
+				"altName" : "AJIO",
+				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
 			},
 			{
 				"altName" : "Flipkart",
@@ -367,26 +469,36 @@
 	{
 		"name" : "Bigo Live",
 		"packageName" : "sg.bigo.live",
-		"alternative" : [
+				"alternative" : [
 			{
 				"altName" : "ShareChat",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+				
 			},
 			{
 				"altName" : "Roposo",
 				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+			
 			},
 			{
 				"altName" : "Mitron",
 				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-				"appIcon" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+		
+			},
+			{
+				"altName" : "Trell",
+				"link" : "https://play.google.com/store/apps/details?id=app.trell",
+				
+			},
+			{
+				"altName" : "Bolo Indya",
+				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
+				
 			},
 			{
 				"altName" : "Dubsmash",
 				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				"appIcon" : "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en"
+				
 			}
 		]
 	},
@@ -503,6 +615,19 @@
 		"name" : "DU Cleaner",
 		"packageName" : "com.DU.Cleaner.antivirus.cleanbooster",
 		"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -528,12 +653,12 @@
 			{
 				"altName" : "Vivaldi",
 				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				"appIcon" : "https://lh3.googleusercontent.com/yhvI4Thw7eI2F78_hJvk3C94Jv9I6R1jUJf2ytu89rW9sxHq80bH84ncD2I-Yz1Yg8-F=s180-rw"
+			
 			},
 			{
 				"altName" : "Firefox",
 				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				"appIcon" : "https://lh3.googleusercontent.com/saKvfvtO-a5mYNo1EpdbM21ahTzF_Mmi3sogXeI3vnCP4oMZCHuXnbwmpN2RoeMEsmg=s180-rw"
+				
 			}
 		]
 	},
@@ -601,7 +726,20 @@
 	{
 		"name" : "DU Privacy",
 		"packageName" : "com.szipcs.duprivacylock",
-		"alternative" : [
+	"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -616,6 +754,19 @@
 		"name" : "Clean Master",
 		"packageName" : "com.cleanmaster.mguard",
 		"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
@@ -623,7 +774,10 @@
 		"name" : "Baidu Translate",
 		"packageName" : "com.baidu.baidutranslate",
 		"alternative" : [
-			
+			{
+				"altName" : "Google Translate",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+			}
 		]
 	},
 	
@@ -644,7 +798,20 @@
 	{
 		"name" : "QQ Security Center",
 		"packageName" : "com.tencent.token",
-		"alternative" : [
+	"alternative" : [
+			{
+				"altName" : "JioSecurity",
+				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+			},
+			{
+				"altName" : "Files by Google",
+				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+			},
+			{
+				"altName" : "CCleaner",
+				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
+				
+			}
 			
 		]
 	},
