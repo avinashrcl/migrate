@@ -32,42 +32,7 @@
 			}
 		]
 	},
-	{
-		"name" : "TikTok",
-		"packageName" : "com.zhiliaoapp.musically",
-				"alternative" : [
-			{
-				"altName" : "ShareChat",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			},
-			{
-				"altName" : "Roposo",
-				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-			
-			},
-			{
-				"altName" : "Mitron",
-				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-		
-			},
-			{
-				"altName" : "Trell",
-				"link" : "https://play.google.com/store/apps/details?id=app.trell",
-				
-			},
-			{
-				"altName" : "Bolo Indya",
-				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
-				
-			},
-			{
-				"altName" : "Dubsmash",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			}
-		]
-	},
+
 	{
 		"name" : "Uc browser",
 		"packageName" : "com.UCMobile.intl",
