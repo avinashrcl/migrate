@@ -1,919 +1,832 @@
 [
-	
-	
-	{
-		"name" : "Terrarium TV",
-		"packageName" : "com.nitroxenon.terrarium",
-	        "alternative" : [
-			{
-				"altName" : "Amazon Prime Video",
-				"link" : "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Netflix",
-				"link" : "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Hotstar",
-				"link" : "https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN",
-	
-			},
-			{
-				"altName" : "ZEE5",
-				"link" : "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Airtel Xstream",
-				"link" : "https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN",
-				
-			}
-		]
-	},
+   {
+      "name":"Terrarium TV",
+      "packageName":"com.nitroxenon.terrarium",
+      "alternative":[
+         {
+            "altName":"Amazon Prime Video",
+            "link":"https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN"
+         },
+         {
+            "altName":"Netflix",
+            "link":"https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN"
+         },
+         {
+            "altName":"Hotstar",
+            "link":"https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN"
+         },
+         {
+            "altName":"ZEE5",
+            "link":"https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN"
+         },
+         {
+            "altName":"Airtel Xstream",
+            "link":"https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN"
+         }
+      ]
+   },
+   {
+      "name":"Uc browser",
+      "packageName":"com.UCMobile.intl",
+      "alternative":[
+         {
+            "altName":"JioBrowser",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en"
+         },
+         {
+            "altName":"Microsoft Edge",
+            "link":"https://play.google.com/store/apps/details?id=com.microsoft.emmx"
+         },
+         {
+            "altName":"Opera Touch",
+            "link":"https://play.google.com/store/apps/details?id=com.opera.touch"
+         },
+         {
+            "altName":"Vivaldi",
+            "link":"https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+         },
+         {
+            "altName":"Firefox",
+            "link":"https://play.google.com/store/apps/details?id=org.mozilla.firefox"
+         }
+      ]
+   },
+   {
+      "name":"SHAREit",
+      "packageName":"com.lenovo.anyshare.gps",
+      "alternative":[
+         {
+            "altName":"JioSwitch",
+            "link":"https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch"
+         }
+      ]
+   },
+   {
+      "name":"Clash of Kings",
+      "packageName":"com.hcg.cok.gp",
+      "alternative":[
+         {
+            "altName":"Clash of Clans",
+            "link":"https://play.google.com/store/apps/details?id=com.supercell.clashofclans"
+         }
+      ]
+   },
+   {
+      "name":"Likee",
+      "packageName":"video.like",
+      "alternative":[
+         {
+            "altName":"ShareChat",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         },
+         {
+            "altName":"Roposo",
+            "link":"https://play.google.com/store/apps/details?id=com.roposo.android"
+         },
+         {
+            "altName":"Mitron",
+            "link":"https://play.google.com/store/apps/details?id=com.mitron.tv"
+         },
+         {
+            "altName":"Trell",
+            "link":"https://play.google.com/store/apps/details?id=app.trell"
+         },
+         {
+            "altName":"Bolo Indya",
+            "link":"https://play.google.com/store/apps/details?id=com.boloindya.boloindya"
+         },
+         {
+            "altName":"Dubsmash",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"SHEIN",
+      "packageName":"com.zzkko",
+      "alternative":[
+         {
+            "altName":"Myntra",
+            "link":"https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+         },
+         {
+            "altName":"Tata CLiQ",
+            "link":"https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+         },
+         {
+            "altName":"AJIO",
+            "link":"https://play.google.com/store/apps/details?id=com.ril.ajio"
+         },
+         {
+            "altName":"Flipkart",
+            "link":"https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"Kwai",
+      "packageName":"com.kwai.video",
+      "alternative":[
+         {
+            "altName":"ShareChat",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         },
+         {
+            "altName":"Roposo",
+            "link":"https://play.google.com/store/apps/details?id=com.roposo.android"
+         },
+         {
+            "altName":"Mitron",
+            "link":"https://play.google.com/store/apps/details?id=com.mitron.tv"
+         },
+         {
+            "altName":"Trell",
+            "link":"https://play.google.com/store/apps/details?id=app.trell"
+         },
+         {
+            "altName":"Bolo Indya",
+            "link":"https://play.google.com/store/apps/details?id=com.boloindya.boloindya"
+         },
+         {
+            "altName":"Dubsmash",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"YouCam Makeup",
+      "packageName":"com.cyberlink.youcammakeup",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"Helo",
+      "packageName":"app.buzz.share",
+      "alternative":[
+         {
+            "altName":"ShareChat",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         },
+         {
+            "altName":"Roposo",
+            "link":"https://play.google.com/store/apps/details?id=com.roposo.android"
+         },
+         {
+            "altName":"Mitron",
+            "link":"https://play.google.com/store/apps/details?id=com.mitron.tv"
+         },
+         {
+            "altName":"Trell",
+            "link":"https://play.google.com/store/apps/details?id=app.trell"
+         },
+         {
+            "altName":"Bolo Indya",
+            "link":"https://play.google.com/store/apps/details?id=com.boloindya.boloindya"
+         },
+         {
+            "altName":"Dubsmash",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"Baidu map",
+      "packageName":"com.baidu.BaiduMap",
+      "alternative":[
+         {
+            "altName":"Google Maps",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+         }
+      ]
+   },
+   {
+      "name":" Mi Community",
+      "packageName":"com.mi.global.bbs",
+      "alternative":[
+         {
+            "altName":"Instagram",
+            "link":"https://play.google.com/store/apps/details?id=com.instagram.android"
+         },
+         {
+            "altName":"Facebook",
+            "link":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+         }
+      ]
+   },
+   {
+      "name":"CM Browser",
+      "packageName":"com.ksmobile.cb",
+      "alternative":[
+         {
+            "altName":"JioBrowser",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en"
+         },
+         {
+            "altName":"Microsoft Edge",
+            "link":"https://play.google.com/store/apps/details?id=com.microsoft.emmx"
+         },
+         {
+            "altName":"Opera Touch",
+            "link":"https://play.google.com/store/apps/details?id=com.opera.touch"
+         },
+         {
+            "altName":"Vivaldi",
+            "link":"https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+         },
+         {
+            "altName":"Firefox",
+            "link":"https://play.google.com/store/apps/details?id=org.mozilla.firefox"
+         }
+      ]
+   },
+   {
+      "name":"APUS Browser",
+      "packageName":"com.apusapps.browser",
+      "alternative":[
+         {
+            "altName":"JioBrowser",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en"
+         },
+         {
+            "altName":"Microsoft Edge",
+            "link":"https://play.google.com/store/apps/details?id=com.microsoft.emmx"
+         },
+         {
+            "altName":"Opera Touch",
+            "link":"https://play.google.com/store/apps/details?id=com.opera.touch"
+         },
+         {
+            "altName":"Vivaldi",
+            "link":"https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+         },
+         {
+            "altName":"Firefox",
+            "link":"https://play.google.com/store/apps/details?id=org.mozilla.firefox"
+         }
+      ]
+   },
+   {
+      "name":"ROMWE",
+      "packageName":"com.romwe",
+      "alternative":[
+         {
+            "altName":"Myntra",
+            "link":"https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+         },
+         {
+            "altName":"Tata CLiQ",
+            "link":"https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+         },
+         {
+            "altName":"AJIO",
+            "link":"https://play.google.com/store/apps/details?id=com.ril.ajio"
+         },
+         {
+            "altName":"Flipkart",
+            "link":"https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"Club Factory",
+      "packageName":"club.fromfactory",
+      "alternative":[
+         {
+            "altName":"Myntra",
+            "link":"https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
+         },
+         {
+            "altName":"Tata CLiQ",
+            "link":"https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
+         },
+         {
+            "altName":"AJIO",
+            "link":"https://play.google.com/store/apps/details?id=com.ril.ajio"
+         },
+         {
+            "altName":"Flipkart",
+            "link":"https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"WeChat",
+      "packageName":"com.tencent.mm",
+      "alternative":[
+         {
+            "altName":"WhatsApp",
+            "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+         }
+      ]
+   },
+   {
+      "name":"Beauty Plus",
+      "packageName":"com.commsource.beautyplus",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"Newsdog",
+      "packageName":"com.newsdog",
+      "alternative":[
+         {
+            "altName":"Google News",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+         }
+      ]
+   },
+   {
+      "name":"UC News",
+      "packageName":"com.uc.iflow",
+      "alternative":[
+         {
+            "altName":"Google News",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
+         }
+      ]
+   },
+   {
+      "name":"Xender",
+      "packageName":"cn.xender",
+      "alternative":[
+         {
+            "altName":"JioSwitch",
+            "link":"https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch"
+         }
+      ]
+   },
+   {
+      "name":"ES File Explorer",
+      "packageName":"com.estrongs.android.pop",
+      "alternative":[
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         }
+      ]
+   },
+   {
+      "name":"QQ Mail",
+      "packageName":"com.tencent.androidqqmail",
+      "alternative":[
+         {
+            "altName":"Gmail",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.gm"
+         }
+      ]
+   },
+   {
+      "name":"QQ Music",
+      "packageName":"com.tencent.qqmusic",
+      "alternative":[
+         {
+            "altName":"JioSaavn",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
+         },
+         {
+            "altName":"Wynk Music",
+            "link":"https://play.google.com/store/apps/details?id=com.bsbportal.music"
+         },
+         {
+            "altName":"Gaana",
+            "link":"https://play.google.com/store/apps/details?id=com.gaana"
+         },
+         {
+            "altName":"Spotify",
+            "link":"https://play.google.com/store/apps/details?id=com.spotify.music"
+         }
+      ]
+   },
+   {
+      "name":"Bigo Live",
+      "packageName":"sg.bigo.live",
+      "alternative":[
+         {
+            "altName":"ShareChat",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         },
+         {
+            "altName":"Roposo",
+            "link":"https://play.google.com/store/apps/details?id=com.roposo.android"
+         },
+         {
+            "altName":"Mitron",
+            "link":"https://play.google.com/store/apps/details?id=com.mitron.tv"
+         },
+         {
+            "altName":"Trell",
+            "link":"https://play.google.com/store/apps/details?id=app.trell"
+         },
+         {
+            "altName":"Bolo Indya",
+            "link":"https://play.google.com/store/apps/details?id=com.boloindya.boloindya"
+         },
+         {
+            "altName":"Dubsmash",
+            "link":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en"
+         }
+      ]
+   },
+   {
+      "name":"Parallel Space",
+      "packageName":"com.lbe.parallel.intl",
+      "alternative":[
 
-	{
-		"name" : "Uc browser",
-		"packageName" : "com.UCMobile.intl",
-		"alternative" : [
-			{
-				"altName" : "JioBrowser",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				
-			},
-			{
-				"altName" : "Microsoft Edge",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				
-			},
-			{
-				"altName" : "Opera Touch",
-				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-				
-			},
-			{
-				"altName" : "Vivaldi",
-				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-			
-			},
-			{
-				"altName" : "Firefox",
-				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				
-			}
-		]
-	},
-	{
-		"name" : "SHAREit",
-		"packageName" : "com.lenovo.anyshare.gps",
-		"alternative" : [
-			{
-				"altName" : "JioSwitch",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch"
-			}
-		]
-	},
-	{
-		"name" : "Clash of Kings",
-		"packageName" : "com.hcg.cok.gp",
-		"alternative" : [
-			{
-				"altName" : "Clash of Clans",
-				"link" : "https://play.google.com/store/apps/details?id=com.supercell.clashofclans"
-			}
-			
-		]
-	},
-	{
-		"name" : "Likee",
-		"packageName" : "video.like",
-				"alternative" : [
-			{
-				"altName" : "ShareChat",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			},
-			{
-				"altName" : "Roposo",
-				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-			
-			},
-			{
-				"altName" : "Mitron",
-				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-		
-			},
-			{
-				"altName" : "Trell",
-				"link" : "https://play.google.com/store/apps/details?id=app.trell",
-				
-			},
-			{
-				"altName" : "Bolo Indya",
-				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
-				
-			},
-			{
-				"altName" : "Dubsmash",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			}
-		]
-	},
-	{
-		"name" : "SHEIN",
-		"packageName" : "com.zzkko",
-	"alternative" : [
-			{
-				"altName" : "Myntra",
-				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
-			},
-			{
-				"altName" : "Tata CLiQ",
-				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
-			},
-		        {
-				"altName" : "AJIO",
-				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
-			},
-			{
-				"altName" : "Flipkart",
-				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
-			}
-		]
-	},
-	{
-		"name" : "Kwai",
-		"packageName" : "com.kwai.video",
-	"alternative" : [
-			{
-				"altName" : "ShareChat",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			},
-			{
-				"altName" : "Roposo",
-				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-			
-			},
-			{
-				"altName" : "Mitron",
-				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-		
-			},
-			{
-				"altName" : "Trell",
-				"link" : "https://play.google.com/store/apps/details?id=app.trell",
-				
-			},
-			{
-				"altName" : "Bolo Indya",
-				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
-				
-			},
-			{
-				"altName" : "Dubsmash",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			}
-		]
-	},
-	{
-		"name" : "YouCam Makeup",
-		"packageName" : "com.cyberlink.youcammakeup",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-			
-		]
-	},
-	{
-		"name" : "Helo",
-		"packageName" : "app.buzz.share",
-		"alternative" : [
-			{
-				"altName" : "ShareChat",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			},
-			{
-				"altName" : "Roposo",
-				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-			
-			},
-			{
-				"altName" : "Mitron",
-				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-		
-			},
-			{
-				"altName" : "Trell",
-				"link" : "https://play.google.com/store/apps/details?id=app.trell",
-				
-			},
-			{
-				"altName" : "Bolo Indya",
-				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
-				
-			},
-			{
-				"altName" : "Dubsmash",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			}
-		]
-	},
-	{
-		"name" : "Baidu map",
-		"packageName" : "com.baidu.BaiduMap",
-		"alternative" : [
-			{
-				"altName" : "Google Maps",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
-			}
-			
-		]
-	},
-	{
-		"name" : " Mi Community",
-		"packageName" : "com.mi.global.bbs",
-		"alternative" : [
-			{
-				"altName" : "Instagram",
-				"link" : "https://play.google.com/store/apps/details?id=com.instagram.android",
-				
-			},
-			
-			{
-				"altName" : "Facebook",
-				"link" : "https://play.google.com/store/apps/details?id=com.facebook.katana",
-			
-			}
-			
-		]
-	},
-	{
-		"name" : "CM Browser",
-		"packageName" : "com.ksmobile.cb",
-	         "alternative" : [
-			{
-				"altName" : "JioBrowser",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				
-			},
-			{
-				"altName" : "Microsoft Edge",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				
-			},
-			{
-				"altName" : "Opera Touch",
-				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-			
-			},
-			{
-				"altName" : "Vivaldi",
-				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				
-			},
-			{
-				"altName" : "Firefox",
-				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				
-			}
-		]
-	},
-	{
-		"name" : "APUS Browser",
-		"packageName" : "com.apusapps.browser",
-	         "alternative" : [
-			{
-				"altName" : "JioBrowser",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				
-			},
-			{
-				"altName" : "Microsoft Edge",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				
-			},
-			{
-				"altName" : "Opera Touch",
-				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-			
-			},
-			{
-				"altName" : "Vivaldi",
-				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				
-			},
-			{
-				"altName" : "Firefox",
-				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				
-			}
-		]
-	},
-	{
-		"name" : "ROMWE",
-		"packageName" : "com.romwe",
-	"alternative" : [
-			{
-				"altName" : "Myntra",
-				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
-			},
-			{
-				"altName" : "Tata CLiQ",
-				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
-			},
-		        {
-				"altName" : "AJIO",
-				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
-			},
-			{
-				"altName" : "Flipkart",
-				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
-			}
-		]
-	},
-	{
-		"name" : "Club Factory",
-		"packageName" : "club.fromfactory",
-		"alternative" : [
-			{
-				"altName" : "Myntra",
-				"link" : "https://play.google.com/store/apps/details?id=com.myntra.android&hl=en"
-			},
-			{
-				"altName" : "Tata CLiQ",
-				"link" : "https://play.google.com/store/apps/details?id=com.tul.tatacliq&hl=en"
-			},
-		        {
-				"altName" : "AJIO",
-				"link" : "https://play.google.com/store/apps/details?id=com.ril.ajio"
-			},
-			{
-				"altName" : "Flipkart",
-				"link" : "https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en"
-			}
-		]
-	},
-	{
-		"name" : "WeChat",
-		"packageName" : "com.tencent.mm",
-		"alternative" : [
-			{
-				"altName" : "WhatsApp",
-				"link" : "https://play.google.com/store/apps/details?id=com.whatsapp"
-			}
-		]
-	},
-	{
-		"name" : "Beauty Plus",
-		"packageName" : "com.commsource.beautyplus",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-		]
-	},
-	{
-		"name" : "Newsdog",
-		"packageName" : "com.newsdog",
-		"alternative" : [
-			{
-				"altName" : "Google News",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
-			}
-		]
-	},
-	{
-		"name" : "UC News",
-		"packageName" : "com.uc.iflow",
-		"alternative" : [
-			{
-				"altName" : "Google News",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines"
-			}
-		]
-	},
-	{
-		"name" : "Xender",
-		"packageName" : "cn.xender",
-		"alternative" : [
-			{
-				"altName" : "JioSwitch",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch"
-			}
-		]
-	},
-	{
-		"name" : "ES File Explorer",
-		"packageName" : "com.estrongs.android.pop",
-		"alternative" : [
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			}
-		]
-	},
-	{
-		"name" : "QQ Mail",
-		"packageName" : "com.tencent.androidqqmail",
-		"alternative" : [
-			{
-				"altName" : "Gmail",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.gm"
-			}
-		]
-	},
-	{
-		"name" : "QQ Music",
-		"packageName" : "com.tencent.qqmusic",
-		"alternative" : [
-			{
-				"altName" : "JioSaavn",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
-			},
-			{
-				"altName" : "Wynk Music",
-				"link" : "https://play.google.com/store/apps/details?id=com.bsbportal.music"
-			},
-			{
-				"altName" : "Gaana",
-				"link" : "https://play.google.com/store/apps/details?id=com.gaana"
-			},
-			{
-				"altName" : "Spotify",
-				"link" : "https://play.google.com/store/apps/details?id=com.spotify.music"
-			}
-		]
-	},
-	{
-		"name" : "Bigo Live",
-		"packageName" : "sg.bigo.live",
-				"alternative" : [
-			{
-				"altName" : "ShareChat",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			},
-			{
-				"altName" : "Roposo",
-				"link" : "https://play.google.com/store/apps/details?id=com.roposo.android",
-			
-			},
-			{
-				"altName" : "Mitron",
-				"link" : "https://play.google.com/store/apps/details?id=com.mitron.tv",
-		
-			},
-			{
-				"altName" : "Trell",
-				"link" : "https://play.google.com/store/apps/details?id=app.trell",
-				
-			},
-			{
-				"altName" : "Bolo Indya",
-				"link" : "https://play.google.com/store/apps/details?id=com.boloindya.boloindya",
-				
-			},
-			{
-				"altName" : "Dubsmash",
-				"link" : "https://play.google.com/store/apps/details?id=in.mohalla.sharechat&hl=en",
-				
-			}
-		]
-	},
-	{
-		"name" : "Parallel Space",
-		"packageName" : "com.lbe.parallel.intl",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Mail Master",
-		"packageName" : "com.netease.mail",
-	"alternative" : [
-			{
-				"altName" : "Gmail",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.gm"
-			}
-		]
-	},
-	{
-		"name" : "SelfieCity",
-		"packageName" : "com.meitu.wheecam",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-			
-		]
-	},
-	{
-		"name" : "Mi Video Call",
-		"packageName" : "com.mi.vtalk",
-		"alternative" : [
-			{
-				"altName" : "Google Duo",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon"
-			}
-		]
-	},
-	{
-		"name" : "WeSync",
-		"packageName" : "com.tencent.qqpim",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Weibo",
-		"packageName" : "com.weico.international",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Viva Video",
-		"packageName" : "com.quvideo.xiaoying",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Meitu",
-		"packageName" : "com.mt.mtxx.mtxx",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Vigo Video",
-		"packageName" : "com.ss.android.ugc.boom",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "DU Recorder",
-		"packageName" : "com.DUrecorder.screenrecorder.videorecorde",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "DU Battery Saver",
-		"packageName" : "com.DUsavebattery.faster.charge",
-	        "alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	
-	{
-		"name" : "DU Antivirus Security",
-		"packageName" : "com.DU.antivirus.cleaner.boosterpro",
-	"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "Vault - Hide",
-		"packageName" : "com.netqin.ps",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Cache Cleaner-DU",
-		"packageName" : "com.dianxinos.optimizer.duplay",
-	"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "DU Cleaner",
-		"packageName" : "com.DU.Cleaner.antivirus.cleanbooster",
-		"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "DU Browser",
-		"packageName" : "com.baidu.browser.inter",
-	 "alternative" : [
-			{
-				"altName" : "JioBrowser",
-				"link" : "https://play.google.com/store/apps/details?id=com.jio.web&hl=en",
-				
-			},
-			{
-				"altName" : "Microsoft Edge",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.emmx",
-				
-			},
-			{
-				"altName" : "Opera Touch",
-				"link" : "https://play.google.com/store/apps/details?id=com.opera.touch",
-			
-			},
-			{
-				"altName" : "Vivaldi",
-				"link" : "https://play.google.com/store/apps/details?id=com.vivaldi.browser",
-				
-			},
-			{
-				"altName" : "Firefox",
-				"link" : "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-				
-			}
-		]
-	},
-	{
-		"name" : "HAGO",
-		"packageName" : "com.yy.hiyo",
-		"alternative" : [
-			{
-				"altName" : "Houseparty",
-				"link" : "https://play.google.com/store/apps/details?id=com.herzick.houseparty"
-			}
-		]
-	},
-	{
-		"name" : "CamScanner",
-		"packageName" : "com.intsig.camscanner",
-		"alternative" : [
-			{
-				"altName" : "Adobe Scan",
-				"link" : "https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN",
-			
-			},
-			{
-				"altName" : "Scanner App To PDF - TapScanner",
-				"link" : "https://play.google.com/store/apps/details?id=pdf.tap.scanner&hl=en_IN",
-			
-			},
-			{
-				"altName" : "Microsoft Office Lens",
-				"link" : "https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN",
-			
-			}
-		]
-	},
-	{
-		"name" : "Sweet Selfie",
-		"packageName" : "com.cam001.selfie",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-		]
-	},
-	{
-		"name" : "Wonder Camera",
-		"packageName" : "com.baidu.baiducamera",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-		]
-	},
-	{
-		"name" : "Photo Wonder",
-		"packageName" : "com.yubitu.android.YubiCollage",
-		"alternative" : [
-			{
-				"altName" : "B612",
-				"link" : "https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
-			}
-		]
-	},
-	{
-		"name" : "DU Privacy",
-		"packageName" : "com.szipcs.duprivacylock",
-	"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "We Meet",
-		"packageName" : "com.videochat.livechat.wemeet",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Clean Master",
-		"packageName" : "com.cleanmaster.mguard",
-		"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "Baidu Translate",
-		"packageName" : "com.baidu.baidutranslate",
-		"alternative" : [
-			{
-				"altName" : "Google Translate",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
-			}
-		]
-	},
-	
-	{
-		"name" : "U Video",
-		"packageName" : "com.kwai.global.video.social.kwaigo",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "QQ International",
-		"packageName" : "com.tencent.mobileqqi",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "QQ Security Center",
-		"packageName" : "com.tencent.token",
-	"alternative" : [
-			{
-				"altName" : "JioSecurity",
-				"link" : "https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
-			},
-			{
-				"altName" : "Files by Google",
-				"link" : "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
-			},
-			{
-				"altName" : "CCleaner",
-				"link" : "https://play.google.com/store/apps/details?id=com.piriform.ccleaner",
-				
-			}
-			
-		]
-	},
-	{
-		"name" : "QQ Launcher",
-		"packageName" : "com.tencent.qqlauncher",
-		"alternative" : [
-			
-		]
-	},
-	
-	{
-		"name" : "Vmate",
-		"packageName" : "com.uc.vmate",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : " V fly Status Video",
-		"packageName" : "com.ai.bfly",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "Mobile Legends",
-		"packageName" : "com.mobile.legends",
-		"alternative" : [
-			{
-				"altName" : "Garena Free Fire",
-				"link" : "https://play.google.com/store/apps/details?id=com.dts.freefireth",
-				
-			}
-		]
-	},
-	{
-		"name" : "Vmate",
-		"packageName" : "com.uc.vmate",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "QQ Player",
-		"packageName" : "com.tencent.research.drop",
-		"alternative" : [
-			
-		]
-	},
-	{
-		"name" : "ShowBox",
-		"packageName" :"com.tdo.showbox",
-		"alternative" : [
-			{
-				"altName" : "Amazon Prime Video",
-				"link" : "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Netflix",
-				"link" : "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Hotstar",
-				"link" : "https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN",
-	
-			},
-			{
-				"altName" : "ZEE5",
-				"link" : "https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN",
-				
-			},
-			{
-				"altName" : "Airtel Xstream",
-				"link" : "https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN",
-				
-			}
-			]
-	}
-	
+      ]
+   },
+   {
+      "name":"Mail Master",
+      "packageName":"com.netease.mail",
+      "alternative":[
+         {
+            "altName":"Gmail",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.gm"
+         }
+      ]
+   },
+   {
+      "name":"SelfieCity",
+      "packageName":"com.meitu.wheecam",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"Mi Video Call",
+      "packageName":"com.mi.vtalk",
+      "alternative":[
+         {
+            "altName":"Google Duo",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon"
+         }
+      ]
+   },
+   {
+      "name":"WeSync",
+      "packageName":"com.tencent.qqpim",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Weibo",
+      "packageName":"com.weico.international",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Viva Video",
+      "packageName":"com.quvideo.xiaoying",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Meitu",
+      "packageName":"com.mt.mtxx.mtxx",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Vigo Video",
+      "packageName":"com.ss.android.ugc.boom",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"DU Recorder",
+      "packageName":"com.DUrecorder.screenrecorder.videorecorde",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"DU Battery Saver",
+      "packageName":"com.DUsavebattery.faster.charge",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"DU Antivirus Security",
+      "packageName":"com.DU.antivirus.cleaner.boosterpro",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"Vault - Hide",
+      "packageName":"com.netqin.ps",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Cache Cleaner-DU",
+      "packageName":"com.dianxinos.optimizer.duplay",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"DU Cleaner",
+      "packageName":"com.DU.Cleaner.antivirus.cleanbooster",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"DU Browser",
+      "packageName":"com.baidu.browser.inter",
+      "alternative":[
+         {
+            "altName":"JioBrowser",
+            "link":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en"
+         },
+         {
+            "altName":"Microsoft Edge",
+            "link":"https://play.google.com/store/apps/details?id=com.microsoft.emmx"
+         },
+         {
+            "altName":"Opera Touch",
+            "link":"https://play.google.com/store/apps/details?id=com.opera.touch"
+         },
+         {
+            "altName":"Vivaldi",
+            "link":"https://play.google.com/store/apps/details?id=com.vivaldi.browser"
+         },
+         {
+            "altName":"Firefox",
+            "link":"https://play.google.com/store/apps/details?id=org.mozilla.firefox"
+         }
+      ]
+   },
+   {
+      "name":"HAGO",
+      "packageName":"com.yy.hiyo",
+      "alternative":[
+         {
+            "altName":"Houseparty",
+            "link":"https://play.google.com/store/apps/details?id=com.herzick.houseparty"
+         }
+      ]
+   },
+   {
+      "name":"CamScanner",
+      "packageName":"com.intsig.camscanner",
+      "alternative":[
+         {
+            "altName":"Adobe Scan",
+            "link":"https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN"
+         },
+         {
+            "altName":"Scanner App To PDF - TapScanner",
+            "link":"https://play.google.com/store/apps/details?id=pdf.tap.scanner&hl=en_IN"
+         },
+         {
+            "altName":"Microsoft Office Lens",
+            "link":"https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN"
+         }
+      ]
+   },
+   {
+      "name":"Sweet Selfie",
+      "packageName":"com.cam001.selfie",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"Wonder Camera",
+      "packageName":"com.baidu.baiducamera",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"Photo Wonder",
+      "packageName":"com.yubitu.android.YubiCollage",
+      "alternative":[
+         {
+            "altName":"B612",
+            "link":"https://play.google.com/store/apps/details?id=com.linecorp.b612.android"
+         }
+      ]
+   },
+   {
+      "name":"DU Privacy",
+      "packageName":"com.szipcs.duprivacylock",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"We Meet",
+      "packageName":"com.videochat.livechat.wemeet",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Clean Master",
+      "packageName":"com.cleanmaster.mguard",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"Baidu Translate",
+      "packageName":"com.baidu.baidutranslate",
+      "alternative":[
+         {
+            "altName":"Google Translate",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+         }
+      ]
+   },
+   {
+      "name":"U Video",
+      "packageName":"com.kwai.global.video.social.kwaigo",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"QQ International",
+      "packageName":"com.tencent.mobileqqi",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"QQ Security Center",
+      "packageName":"com.tencent.token",
+      "alternative":[
+         {
+            "altName":"JioSecurity",
+            "link":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity"
+         },
+         {
+            "altName":"Files by Google",
+            "link":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files"
+         },
+         {
+            "altName":"CCleaner",
+            "link":"https://play.google.com/store/apps/details?id=com.piriform.ccleaner"
+         }
+      ]
+   },
+   {
+      "name":"QQ Launcher",
+      "packageName":"com.tencent.qqlauncher",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Vmate",
+      "packageName":"com.uc.vmate",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":" V fly Status Video",
+      "packageName":"com.ai.bfly",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"Mobile Legends",
+      "packageName":"com.mobile.legends",
+      "alternative":[
+         {
+            "altName":"Garena Free Fire",
+            "link":"https://play.google.com/store/apps/details?id=com.dts.freefireth"
+         }
+      ]
+   },
+   {
+      "name":"Vmate",
+      "packageName":"com.uc.vmate",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"QQ Player",
+      "packageName":"com.tencent.research.drop",
+      "alternative":[
+
+      ]
+   },
+   {
+      "name":"ShowBox",
+      "packageName":"com.tdo.showbox",
+      "alternative":[
+         {
+            "altName":"Amazon Prime Video",
+            "link":"https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en_IN"
+         },
+         {
+            "altName":"Netflix",
+            "link":"https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_IN"
+         },
+         {
+            "altName":"Hotstar",
+            "link":"https://play.google.com/store/apps/details?id=in.startv.hotstar&hl=en_IN"
+         },
+         {
+            "altName":"ZEE5",
+            "link":"https://play.google.com/store/apps/details?id=com.graymatrix.did&hl=en_IN"
+         },
+         {
+            "altName":"Airtel Xstream",
+            "link":"https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk&hl=en_IN"
+         }
+      ]
+   }
 ]
